@@ -1,5 +1,4 @@
-# CyBell
-"Sentient Bike Bell"
+# CyBell - "Sentient Bike Bell" - Andrew Bedno - 2023.05.01 - https://bedno.com/cybell
 
 This is the FIFTH major revision to my ongoing virtual / electronic bike bell project.
 
@@ -11,5 +10,4 @@ But it turns out BT bike speakers turn off if not used for too long so I'm addin
 
 Version 5 also adds basic sentience.  Given  the ESP32's great CPU power and memory and ability to easily connect sensors, I've added several features such as awareness of degrees of light and touch, hunger, work satisfaction and self expression.  I've researched the topic some for the implementation, and can safely argue this approaches insect level intelligence.
 
-It's mostly working but the upgrade to amp and speaker using I2S is going to take some days.
-So I'm seeding the repository for now with that connection diagram to help me finish.
+Source code is still in final debugging.  So I'm seeding the repository for now with the circuit diagram.
