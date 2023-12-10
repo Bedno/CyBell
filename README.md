@@ -1,4 +1,4 @@
-"CyBell" - Sentient Bike Bell (v5.55) - 2023.05.05
+"CyBell" - Sentient Bike Bell (v5.55) - 2023.06.20
 Andrew Bedno - andrew@bedno.com - AndrewBedno.com
 
 Compact electronic bike bell with multiple sounds, basic sentience and more.
